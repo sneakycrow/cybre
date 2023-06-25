@@ -1,0 +1,9 @@
+node_modules
+.svelte-kit
+
+# local env files
+.env.local
+
+# editor directories and files
+.idea
+.vscode
